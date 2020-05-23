@@ -1,0 +1,4 @@
+﻿  ExceptionalHandling.cpp
+C:\Users\Admin 1\source\repos\ExceptionalHandling\ExceptionalHandling\Demo.h(5,28): warning C4200: nonstandard extension used: zero-sized array in struct/union
+C:\Users\Admin 1\source\repos\ExceptionalHandling\ExceptionalHandling\Demo.h(5,28): message : This member will be ignored by a defaulted constructor or copy/move assignment operator
+  ExceptionalHandling.vcxproj -> C:\Users\Admin 1\source\repos\ExceptionalHandling\Debug\ExceptionalHandling.exe
